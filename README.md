@@ -1,4 +1,3 @@
-# website-template
-This template can be used as the basis of new websites.
+# Software Developer Essentials Website Template
 
-You can download the zip file, unzip/decompress it, copy the whole folder and rename it.
+This repo is used as the starting point for the Software Developer Essentials course during the video content portion of the course.
